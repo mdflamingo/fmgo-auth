@@ -1,1 +1,2 @@
-# fmgo-auth
+# Authorization service
+
